@@ -12,3 +12,9 @@ Now a day’s financial impact of agriculture is increase day by day with econom
 
 ## Dataset
 In this dataset there are three folders like train , test and validation folder . In this dataset there are 4 category like diseased cotton leaf , diseased cotton plant , fresh cotton leaf , fresh cotton plant to predict from.
+
+## Installation
+The Code is written in Python 3.6. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+```bash
+pip install -r requirements.txt
+```
