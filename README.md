@@ -11,6 +11,7 @@ A transfer learning-based approach to detect the disease in cotton plant by anal
 Now a day’s financial impact of agriculture is increase day by day with economic growth of our country, still agriculture is one wide sectors and that is play very important role for our county. While keeping track of diseases in plants with the help of specialists can be very costly in agriculture region. There is a need for a system which can automatically detect the diseases as it can bring revolution in monitoring large fields of crop and then plant leaves can be taken cure as soon as possible after detection of disease. There are so many diseases that affect for cotton and many more crop that effect many filed of agriculture. So those identify this disease and how to recover from it. This objective will satisfy though our application which is helps for do prediction of cotton disease.
 
 ## Dataset
+Data source: https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset. 
 In this dataset there are three folders like train , test and validation folder . In this dataset there are 4 category like diseased cotton leaf , diseased cotton plant , fresh cotton leaf , fresh cotton plant to predict from.
 
 ## Installation
@@ -18,3 +19,5 @@ The Code is written in Python 3.6. If you don't have Python installed you can fi
 ```bash
 pip install -r requirements.txt
 ```
+## How to use the API
+Just run ‘aap.py’ file in spyder or you can run it using anaconda prompt. Then you will get localhost address like ‘http://127.0.0.1:5000/‘ enter it in any browser in your system then enjoy it.
